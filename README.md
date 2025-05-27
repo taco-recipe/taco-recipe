@@ -1,22 +1,59 @@
-## 💫 백엔드 개발자로 성장 중인 대학생 고형준입니다!
-> 영화 추천 플랫폼 Filmus를 제작하며 Spring Boot와 MySQL로 도메인 모델을 설계하고 REST API를 구현했을 뿐 아니라,  
-> AWS 인프라·CI/CD 파이프라인까지 직접 다루어 요구사항 정의 → 데이터 모델링 → 배포·모니터링까지 서비스 전 주기를 주도적으로 경험했습니다.  
-> 기능·DB·인프라를 하나의 흐름으로 연결해 보는 시스템적 시야와 디자이너·프론트엔드·DevOps와의 원활한 커뮤니케이션 능력이 강점이며,  
-> 설계한 아키텍처가 실제 트래픽에서도 끊김 없이 동작하고 팀원들이 그 위에서 편하게 개발할 때 가장 큰 보람과 동기부여를 느낍니다.
+<div align="center">
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taco9590@gmail.com) 
+# 💫 안녕하세요, 백엔드 개발자로 성장 중인 **고형준**입니다!
 
-## 💻 Tech Stack:
-- Programming Language : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-- Framwork : ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-- DevOps : ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+🎞️ 영화 추천 플랫폼 **Filmus**를 설계·구현하며  
+도메인 모델링 → REST API 개발 → AWS 배포·모니터링까지 **서비스 전 주기**를 주도적으로 경험했습니다.  
+시스템 전반(기능·DB·인프라)을 하나의 흐름으로 바라보며  
+디자이너·프론트엔드·DevOps와 **원활하게 협업**하는 것이 가장 큰 강점입니다.  
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taco-recipe&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=taco-recipe&theme=default_repocard&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taco-recipe)
+[![email](https://img.shields.io/badge/이메일-문의하기-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taco9590@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taco-recipe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 기술 스택
+
+| 영역 | 사용 기술 |
+|------|-----------|
+| **언어** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **백엔드** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat) |
+| **DevOps / 클라우드** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+| **보안 / 인증** | ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white) |
+
+---
+
+## ✨ 대표 프로젝트
+
+| 프로젝트 | 주요 역할 · 핵심 기술 |
+|----------|----------------------|
+| **Filmus**<br>(영화 추천 플랫폼) | • Spring Boot 기반 도메인 설계 및 REST API 구현<br>• MySQL · MyBatis로 데이터 모델링 및 최적화<br>• Jenkins & GitHub Actions → Docker → AWS EC2 배포 파이프라인 구축<br>• JWT 인증 · 이메일 인증, Swagger 문서화 |
+| **피팁(P-Tip)**<br>(교내 정보 통합 서비스) | • 장학금·식단·시간표 API 설계 및 구현<br>• React PWA 프론트엔드와 연동<br>• AWS S3 + CloudFront HTTPS 설정 |
+
+> 상세 내용은 레포지토리 README에서 확인하실 수 있습니다.
+
+---
+
+## 📊 GitHub 통계
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taco-recipe&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=taco-recipe&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌱 공부 중인 주제
+
+- **DDD** · 클린 아키텍처  
+- **Kubernetes** 기반 무중단 배포  
+- **AI 추천 시스템** (Python + NLP)  
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=taco-recipe&label=VISITS&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
