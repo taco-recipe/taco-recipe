@@ -14,11 +14,9 @@
 
 ---
 
-<div>
-
 ## 🛠️ **기술 스택**
 
-
+<div align="center">
 **Languages / DB**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -45,7 +43,7 @@
 
 ---
 
-<div>
+<div align="center">
 
 ## 📈 **GitHub 활동**
 
