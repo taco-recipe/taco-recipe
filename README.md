@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 **Languages & DB**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
