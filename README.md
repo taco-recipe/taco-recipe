@@ -1,13 +1,10 @@
 <div>
 
 # 💫 안녕하세요! 백엔드 개발자 **고형준**입니다
----
 
 - **도메인 주도 설계(DDD)**를 바탕으로 읽기 쉽고 확장 가능한 디렉터리 구조를 설계하는 데 관심이 많습니다.  
-- 다수의 프로젝트를 기획·개발하며 **Spring Boot + MySQL**로 도메인 모델을 구현하고,  
-  **AWS (EC2·S3·CloudFront)**와 **GitHub Actions + Docker**를 활용해 CI/CD 파이프라인을 구축했습니다.  
-- **요구 분석 → 모델링 → 배포·모니터링**까지 **서비스 전 주기**를 주도적으로 경험하며  
-  **기능·DB·인프라를 하나의 흐름으로 연결하는 시야**를 길렀습니다.  
+- 다수의 프로젝트를 기획·개발하며 **Spring Boot + MySQL**로 도메인 모델을 구현하고, **AWS (EC2·S3·CloudFront)**와 **GitHub Actions + Docker**를 활용해 CI/CD 파이프라인을 구축했습니다.  
+- **요구 분석 → 모델링 → 배포·모니터링**까지 **서비스 전 주기**를 주도적으로 경험하며 **기능·DB·인프라를 하나의 흐름으로 연결하는 시야**를 길렀습니다.  
 - 개발을 넘어 디자인·광고홍보 등 **명확하고 효율적인 커뮤니케이션**을 통한 협업을 경험했습니다.
 
 [![Gmail Badge](https://img.shields.io/badge/%20Email-taco9590@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taco9590@gmail.com)
