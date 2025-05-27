@@ -47,7 +47,15 @@
 
 ## 📈 **GitHub 활동**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taco-recipe&theme=buefy&show_icons=true&hide_border=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=taco-recipe&theme=buefy&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=taco-recipe&theme=buefy&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=taco-recipe&theme=buefy&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 </div>
