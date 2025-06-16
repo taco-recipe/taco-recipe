@@ -33,13 +33,13 @@
 ## 📌 주요 프로젝트
 
 ### 🎬 Filmus – 영화 추천 플랫폼  
-[GitHub Repo](https://github.com/taco-recipe/filmus)  
+[GitHub Repo](https://github.com/filmusProject)  
 - 백엔드 아키텍처 설계, JWT·이메일 인증 구현  
 - GitHub Actions → Docker → AWS EC2 무중단 배포 파이프라인 구축  
 - AI 도구(ChatGPT, Copilot 등)을 활용해 반응형·다크모드 프론트 직접 설계
 
 ### 🏫 P-Tip – 교내 정보 통합 서비스  
-[GitHub Repo](https://github.com/taco-recipe/ptip)  
+[GitHub Repo](https://github.com/P-Tip)  
 - 장학금·식단·시간표 통합 REST API 개발 및 AWS 배포  
 - 실사용자 피드백을 반영해 UX 개선 주도
 
