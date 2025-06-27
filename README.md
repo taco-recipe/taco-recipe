@@ -47,9 +47,9 @@
 
 ## 📈 GitHub Stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=taco-recipe)
-![wipchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=taco-recipe&theme=panda&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taco-recipe&layout=compact&theme=tokyonight)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taco-recipe&theme=buefy&show_icons=true&hide_border=true&count_private=true" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=taco-recipe&theme=buefy&hide_border=true" width="48%"/>
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taco-recipe&layout=compact&theme=tokyonight)
